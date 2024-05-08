@@ -3,4 +3,4 @@
 
 To make sure the whole program runs properly, download the whole folder together.
 
-Open the folder in desired enviroment, which contains 'cardgame.py' and 'winners.csv'
+Open the folder in desired environment, which contains 'cardgame.py' and 'winners.csv'
